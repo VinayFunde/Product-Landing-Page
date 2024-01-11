@@ -139,10 +139,10 @@ body {
     white-space: nowrap;
     overflow-x: auto;
 }
-/* .cont-right::-webkit-scrollbar{
+.cont-right::-webkit-scrollbar{
     display: none;
     
-} */
+}
 .elem{
     height: 400px;
     width:300px;
